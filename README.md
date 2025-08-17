@@ -104,7 +104,7 @@ nano stock_monitor.py
 
 ### 步骤 4.3: 粘贴最终脚本代码
 
-请将本仓库中的 `stock_monitor.py` 文件内的完整代码，粘贴至 `nano` 编辑器中。
+请将本仓库中的 [`stock_monitor.py`](https://github.com/meaen/Stock_Monitoring_Bot/blob/main/stock_monitor.py) 文件内的完整代码，粘贴至 `nano` 编辑器中。
 
 ### 步骤 4.4: 配置脚本
 
